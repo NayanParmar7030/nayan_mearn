@@ -1,0 +1,4 @@
+1) Mongo DB atlas login
+
+Username:np.phpdeveloper@gmail.com
+Pass: mearn7030
